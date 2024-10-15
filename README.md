@@ -1,17 +1,11 @@
-# heart_app
 
-A new Flutter project.
+# Acesso Cor
 
-## Getting Started
+This Flutter application was built as a quick solution to assist a medical doctor with a specific use case at my university. Although developed under a tight deadline, the app demonstrates a practical implementation in Flutter.
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
+The **Acesso Cor** app provides a streamlined tool for medical use, featuring:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# acesso-cor
+- **Core Functionalities**: Tailored for the doctor's requirements, focusing on fast and practical usage.
+- **Quick Development**: Created with a short turnaround, making it efficient for urgent needs.
